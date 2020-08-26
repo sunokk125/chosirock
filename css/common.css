@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:"나눔고딕", "굴림", "굴림체", "돋움", "돋움체";
+	overflow-x:hidden;
+}
+#wrap{
+    text-align: center;
+    background-color: white;
+}
+#wrap2{
+    text-align: center;
+    background-color: #dbdbdb;
+}
+#title{padding:30px;}
+
+#product a{
+	color:black;
+	text-decoration:none;
+}
+
+
+#footer{
+    padding: 30px 0;
+    background-color: #333333;
+    color: white;
+}

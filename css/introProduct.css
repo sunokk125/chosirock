@@ -1,0 +1,18 @@
+#container2{
+    display: inline-block;
+    width: 65%;
+    padding-top:200px;
+}
+
+#content1{
+    background-color: white;
+}
+
+#product{
+    width: 20%;
+    display: inline-block;
+    margin:0 20px;
+}
+#prdName{
+    margin: 30px 0;
+}
